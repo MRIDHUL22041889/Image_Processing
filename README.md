@@ -1,6 +1,6 @@
 # Image Processing Algorithms in MATLAB  
 
-This repository offers custom implementations of various image processing algorithms in MATLAB, focusing on core techniques such as filtering, edge detection, and frequency domain analysis—without relying on built-in functions.They provide a brief introduction to the field of Image processing and the use of maths and physics fundamentals used. 
+This repository offers custom implementations of various image processing algorithms in MATLAB, focusing on core techniques such as filtering, edge detection, and frequency domain analysis without relying heavily on built-in functions.They provide a brief introduction to the field of Image processing and the use of maths and physics fundamentals used. 
 
 ## ✨ Features  
 
